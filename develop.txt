@@ -3,8 +3,3 @@ dev2
 dev3
 main1
 dev11
-main2
-
-main3
-dev11
-dev22
