@@ -7,7 +7,3 @@ main2
 
 main3
 dev11
-dev22
-
-dev33
-dev44
