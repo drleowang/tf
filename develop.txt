@@ -2,29 +2,4 @@ dev1
 dev2
 dev3
 main1
-<<<<<<< HEAD
 dev11
-main2
-
-main3
-dev11
-dev22
-<<<<<<< HEAD
-=======
-dev11
->>>>>>> dev11
-=======
-
-dev33
-dev44
-
-dev55
-<<<<<<< HEAD
->>>>>>> dev55
-=======
-
-
-main5
-
-dev66
->>>>>>> dev66
